@@ -1,0 +1,8 @@
+# just for example
+/tools/*
+!tools/config
+resources
+production
+development
+themes/*
+!themes/.gitkeep
