@@ -6,3 +6,4 @@ production
 development
 themes/*
 !themes/.gitkeep
+.hugo_build.lock
