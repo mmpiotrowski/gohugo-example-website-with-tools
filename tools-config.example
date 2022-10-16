@@ -1,0 +1,6 @@
+THEME_REPO="https://github.com/adityatelange/hugo-PaperMod.git"
+THEME_VERSION="v6.0"
+PORT="1315"
+HUGO_IMAGE="klakegg/hugo:0.101.0-ext"
+S3_BUCKET="YOUR_S3_BUCKET"
+CLOUDFRONT_DISITRIBUTION_ID="YOUR_CLOUDFRONT_ID"
